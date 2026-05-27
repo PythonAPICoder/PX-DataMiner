@@ -123,7 +123,7 @@ pip install requests pandas openpyxl pyyaml
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/CiscoSteve/PX-DataMiner.git
+git clone https://github.com/PythonAPICoder/PX-DataMiner.git
 ```
 
 2. Configure your API credentials in `config.ini`
