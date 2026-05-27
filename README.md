@@ -11,6 +11,18 @@ By integrating OAuth authentication, API automation, structured exports, and con
 
 ---
 
+## Disclaimer
+
+PX DataMiner is an independent automation solution and is not an officially supported Cisco product.
+
+Users are responsible for:
+
+* API credential management
+* Responsible rate limit usage
+* Compliance with Cisco API policies
+* Internal governance requirements
+
+---
 ## Key Benefits
 
 * Automates large-scale PX data extraction across customers and endpoints
@@ -161,18 +173,6 @@ PX DataMiner generates structured output for:
 
 ---
 
-## Disclaimer
-
-PX DataMiner is an independent automation solution and is not an officially supported Cisco product.
-
-Users are responsible for:
-
-* API credential management
-* Responsible rate limit usage
-* Compliance with Cisco API policies
-* Internal governance requirements
-
----
 
 ## Bottom Line
 
